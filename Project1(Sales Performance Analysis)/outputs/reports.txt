@@ -1,5 +1,0 @@
-
-1. Sales show an overall increasing trend across months.
-2. Some months perform significantly better than others.
-3. Average monthly sales are around 2,190.
-4. Variation exists, including business is not perfectly stable.

@@ -1,4 +1,0 @@
-1. How are sales changing over time.
-2. Which months perform better or worse.
-3. Are there any unusual sales values.
-4. Is the business stable or risky.
